@@ -1,0 +1,11 @@
+{
+  "name": "快法务测试文档",
+  "version": "1.0.0",
+  "description": "快法务测试文档",
+  "title": "快法务测试文档",
+  "url" : "http://api.kuaifawu.com/",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}

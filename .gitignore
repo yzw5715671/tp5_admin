@@ -1,0 +1,11 @@
+.idea
+composer.lock
+*.log
+*.env
+thinkphp
+vendor
+runtime
+.settings
+.project
+.buildpath
+*.sublime*
